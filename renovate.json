@@ -8,6 +8,7 @@
       "automerge": true
     }
   ],
+  "requiredStatusChecks": null,
   "baseBranches": [
     "master",
     "react"
