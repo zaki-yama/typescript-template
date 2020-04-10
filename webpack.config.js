@@ -3,6 +3,7 @@ const path = require("path");
 module.exports = {
   mode: "development",
 
+  devtool: "cheap-module-eval-source-map",
   entry: "./src/index.tsx",
   output: {
     path: path.join(__dirname, "dist"),
