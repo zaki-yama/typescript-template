@@ -13,7 +13,7 @@
   "license": "MIT",
   "devDependencies": {
     "@cybozu/eslint-config": "11.0.0",
-    "@types/jest": "26.0.11",
+    "@types/jest": "26.0.12",
     "eslint": "7.7.0",
     "jest": "26.4.2",
     "prettier": "2.1.1",
