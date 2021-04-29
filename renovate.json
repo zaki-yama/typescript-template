@@ -1,7 +1,5 @@
 {
-  "extends": [
-    "config:base"
-  ],
+  "extends": ["config:base"],
   "packageRules": [
     {
       "updateTypes": ["minor", "patch", "pin", "digest"],
@@ -9,8 +7,5 @@
     }
   ],
   "requiredStatusChecks": null,
-  "baseBranches": [
-    "master",
-    "react"
-  ]
+  "baseBranches": ["master", "react"]
 }
