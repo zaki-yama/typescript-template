@@ -731,10 +731,10 @@
   resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.3.tgz"
   integrity sha512-KfRL3PuHmqQLOG+2tGpRO26Ctg+Cq1E01D2DMriKEATHgWLfeNDmq9e29Q9WIky0dQ3NPkd1mzYH8Lm936Z9qw==
 
-"@types/react-dom@17.0.8":
-  version "17.0.8"
-  resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-17.0.8.tgz"
-  integrity sha512-0ohAiJAx1DAUEcY9UopnfwCE9sSMDGnY/oXjWMax6g3RpzmTt2GMyMVAXcbn0mo8XAff0SbQJl2/SBU+hjSZ1A==
+"@types/react-dom@17.0.9":
+  version "17.0.9"
+  resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-17.0.9.tgz"
+  integrity sha512-wIvGxLfgpVDSAMH5utdL9Ngm5Owu0VsGmldro3ORLXV8CShrL8awVj06NuEXFQ5xyaYfdca7Sgbk/50Ri1GdPg==
   dependencies:
     "@types/react" "*"
 
@@ -4484,9 +4484,9 @@ natural-compare@^1.4.0:
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
 needle@^2.5.2:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/needle/-/needle-2.7.0.tgz#90e020b9a1e33253fcf009d22927b130c8b2fd8b"
-  integrity sha512-b4f4JgOl7GZVM1p+xuWBAsHwflng1s2yOu9lOThKAzULRW7eqSFYfN4gbuUFOMuE0hVAPWJnSz/90LMOlEGErw==
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/needle/-/needle-2.8.0.tgz#1c8ef9c1a2c29dcc1e83d73809d7bc681c80a048"
+  integrity sha512-ZTq6WYkN/3782H1393me3utVYdq2XyqNUFBsprEE3VMAT0+hP/cItpnITpqsY6ep2yeFE4Tqtqwc74VqUlUYtw==
   dependencies:
     debug "^3.2.6"
     iconv-lite "^0.4.4"
